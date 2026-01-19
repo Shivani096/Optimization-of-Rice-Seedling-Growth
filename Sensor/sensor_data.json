@@ -1,0 +1,7 @@
+{
+    "temperature": 28.5,
+    "humidity": 50,
+    "light_intensity": 55,
+    "soil_moisture": 42,
+    "co2_level": 400
+}
